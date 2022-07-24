@@ -1,6 +1,8 @@
 # About
 This analysis identifies three clusters of 2021 Kaggle survey participants by **k-means clustering** method. By digging further of each cluster, we name them as **explorers**, **climbers** and **experts**, depending on how they respond questions in regards of demographics, professions, their skill and knowledge in data science, the tools they are frequently using and tools they plan to get more familiar in the next two years.
 
+You can find a blog post on medium [here](https://medium.com/@tianmin/are-you-an-explorer-a-climber-or-an-expert-in-the-data-science-world-e6c574937f30).
+
 # Motivation
 This analysis tries to answer -
 
